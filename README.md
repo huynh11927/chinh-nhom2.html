@@ -36,7 +36,7 @@
    </tr>
    <tr>
     <td> Châu Hữu Phúc Thịnh</td>
-    <td><p><a href="https://phucthinhdeptrai.github.io/thinh/?fbclid=IwZXh0bgNhZW0CMTEAAR05MdQlLxn4sbJGW2kCYQvnPNaNLojMfBFEs62uL7MSVvQv5B81a5o5Z3w_aem_nM_4WLwVDi53bXaxeT6yqw"> Thong tin ca nhan</a></p>
+    <td><p><a href="https://phucthinhdeptrai.github.io/thinh/?fbclid=IwZXh0bgNhZW0CMTEAAR3yBY7KEmcHqRs_jPGv2YJOK_W9uELS1fcDXVzqq2DYc7HsFavKezIjawA_aem_Ock6-5P0StVw3sxNr2kWyA"> Thong tin ca nhan</a></p>
 </td>
    </tr>
 <p><strong> NHÓM 2 </strong></p>  
