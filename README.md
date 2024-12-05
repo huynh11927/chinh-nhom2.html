@@ -39,7 +39,7 @@
     <td><p><a href="https://phucthinhdeptrai.github.io/thinh/?fbclid=IwZXh0bgNhZW0CMTEAAR3yBY7KEmcHqRs_jPGv2YJOK_W9uELS1fcDXVzqq2DYc7HsFavKezIjawA_aem_Ock6-5P0StVw3sxNr2kWyA"> Thong tin ca nhan</a></p>
 </td>
    </tr>
-<p><strong> NHÓM 2 </strong></p>  
+<p><strong> CHÀO MỪNG MỌI NGƯỜI ĐẾN VỚI NHÓM 2 </strong></p>  
 <img
 </body>  
 </html>
