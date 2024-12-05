@@ -31,7 +31,7 @@
      </tr>
    <tr>
     <td> Đào Thanh Hoàng</td>
-    <td><p><a href="https://hoang-mak.github.io/hoang-mak/?fbclid=IwZXh0bgNhZW0CMTEAAR31Fz_yAveMWMUi_5f5T3cedu4VCsAAuyk_Os4O1pqxDta8yXl5OPp5C38_aem_zMdkkZFv7ivI8IuQyy9KSg"> Thong tin ca nhan</a></p>
+    <td><p><a href="https://hoang-mak.github.io/hoang-mak/?fbclid=IwZXh0bgNhZW0CMTEAAR0d1moqXZbqUVUEeHv_8YRaufV54rgEYSszYchY4q_wfAdAzLgPHdmDPoo_aem_eJu-IEvMgReUwDD8xm6WAw"> Thong tin ca nhan</a></p>
 </td>
    </tr>
    <tr>
