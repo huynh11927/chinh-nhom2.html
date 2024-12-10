@@ -3,49 +3,45 @@
 <html>  
 <head>  
     <title>NHOM 2</title> 
-<head>  
-  <meta charset="UTF-8">  
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-  <title>GitHub Member Profiles</title>  
-  <style>  
-    body {  
-      font-family: Arial, sans-serif;  
-      margin: 0;  
-      padding: 0;  
-      background-color: #f5f5f5;  
-    }  
-    
-    .member-card {  
-      background-color: #fff;  
-      border-radius: 8px;  
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);  
-      display: flex;  
-      margin: 20px;  
-      padding: 20px;  
-    }  
-    
-    .member-avatar img {  
-      width: 100px;  
-      height: 100px;  
-      border-radius: 50%;  
-      margin-right: 20px;  
-    }  
-    
-    .member-info h2 {  
-      margin-top: 0;  
-    }  
-    
-    .member-info p {  
-      margin-bottom: 10px;  
-    }  
-    
-    .member-info a {  
-      color: #007bff;  
-      text-decoration: none;  
-    }  
-  </style>  
+ <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>Logan của chúng tớ là:</title>  
+    <style>  
+        body {  
+            font-family: Arial, sans-serif;  
+            margin: 0;  
+            padding: 0;  
+            display: flex;  
+            justify-content: center;  
+            align-items: center;  
+            height: 100vh;  
+            background-color: #f5f5f5;  
+        }  
+        
+        .logan {  
+            font-size: 48px;  
+            font-weight: bold;  
+            color: #333;  
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);  
+            animation: bounce 2s ease-in-out infinite;  
+        }  
+        
+        @keyframes bounce {  
+            0% {  
+                transform: translateY(0);  
+            }  
+            50% {  
+                transform: translateY(-10px);  
+            }  
+            100% {  
+                transform: translateY(0);  
+            }  
+        }  
+    </style>  
 </head>  
-<head>
+<body>  
+    <div class="logan">Cuộc sống chỉ cho ta 10% cơ hội, 90% còn lại là do chúng ta trải nghiệm thế nào với nó.y</div>  
+</body>  
 <body>  
     <div>  
         <h1>Cac thanh vien nhom 2 </h1>
