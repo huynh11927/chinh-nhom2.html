@@ -2,13 +2,13 @@
 <!DOCTYPE html>  
 <html>  
 <head>  
-    <title>NHOM 2</title> 
-    <title>Logan của chúng tớ là:</title>  
-    <style>	
+    <title><p>NHÓM 2</p></title> 
+</head>  
+<body> 
+  <style>	
 	  h1 {color: red;}
     </style>  
-</head>  
-<body>  
+    <p></p>Logan của chúng tớ là:</p>
    <h1> <div class="logan"><strong>Cuộc sống chỉ cho ta 10% cơ hội, 90% còn lại là do chúng ta trải nghiệm thế nào với nó.</strong></div> </h1>
 </body>  
 <body>  
