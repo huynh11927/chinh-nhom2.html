@@ -3,44 +3,13 @@
 <html>  
 <head>  
     <title>NHOM 2</title> 
- <meta charset="UTF-8">  
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
     <title>Logan của chúng tớ là:</title>  
-    <style>  
-        body {  
-            font-family: Arial, sans-serif;  
-            margin: 0;  
-            padding: 0;  
-            display: flex;  
-            justify-content: center;  
-            align-items: center;  
-            height: 100vh;  
-            background-color: #f5f5f5;  
-        }  
-        
-        .logan {  
-            font-size: 48px;  
-            font-weight: bold;  
-            color: #333;  
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);  
-            animation: bounce 2s ease-in-out infinite;  
-        }  
-        
-        @keyframes bounce {  
-            0% {  
-                transform: translateY(0);  
-            }  
-            50% {  
-                transform: translateY(-10px);  
-            }  
-            100% {  
-                transform: translateY(0);  
-            }  
-        }  
+    <style>	
+	  h1 {color: red;}
     </style>  
 </head>  
 <body>  
-    <div class="logan">Cuộc sống chỉ cho ta 10% cơ hội, 90% còn lại là do chúng ta trải nghiệm thế nào với nó.y</div>  
+   <h1> <div class="logan"><strong>Cuộc sống chỉ cho ta 10% cơ hội, 90% còn lại là do chúng ta trải nghiệm thế nào với nó.</strong></div> </h1>
 </body>  
 <body>  
     <div>  
@@ -87,3 +56,4 @@
 <img
 </body>  
 </html>
+
